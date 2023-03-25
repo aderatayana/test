@@ -1,3 +1,8 @@
+# -_-
+
+[![Deploy](https://graph.org/file/c54c6a0b430c09ae91db1.png)](https://t.me/erl_andi)
+
+
 ## Installation instructions
 
 1. Clone the repository to a VM or to your machine you want to run the proxy on.
