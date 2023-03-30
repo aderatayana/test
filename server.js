@@ -9,7 +9,7 @@ const remotehost = process.env.REMOTE_HOST
 const remoteport = process.env.REMOTE_PORT
 const password = process.env.REMOTE_PASSWORD
 const localhost = process.env.LOCAL_HOST || '0.0.0.0'
-const localport = process.env.LOCAL_PORT || 2020
+const localport = process.env.LOCAL_PORT || 443
 
 if (!localhost || !localport || !remotehost || 
     !remoteport || !password) {
